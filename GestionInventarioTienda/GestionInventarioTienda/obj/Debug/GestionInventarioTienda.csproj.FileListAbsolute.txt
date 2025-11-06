@@ -1,0 +1,10 @@
+C:\Users\jhona\source\repos\GestionInventarioTienda\GestionInventarioTienda\obj\Debug\GestionInventarioTienda.csproj.AssemblyReference.cache
+C:\Users\jhona\source\repos\GestionInventarioTienda\GestionInventarioTienda\obj\Debug\GestionInventarioTienda.Form1.resources
+C:\Users\jhona\source\repos\GestionInventarioTienda\GestionInventarioTienda\obj\Debug\GestionInventarioTienda.Properties.Resources.resources
+C:\Users\jhona\source\repos\GestionInventarioTienda\GestionInventarioTienda\obj\Debug\GestionInventarioTienda.csproj.GenerateResource.cache
+C:\Users\jhona\source\repos\GestionInventarioTienda\GestionInventarioTienda\obj\Debug\GestionInventarioTienda.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\GestionInventarioTienda\GestionInventarioTienda\bin\Debug\GestionInventarioTienda.exe.config
+C:\Users\jhona\source\repos\GestionInventarioTienda\GestionInventarioTienda\bin\Debug\GestionInventarioTienda.exe
+C:\Users\jhona\source\repos\GestionInventarioTienda\GestionInventarioTienda\bin\Debug\GestionInventarioTienda.pdb
+C:\Users\jhona\source\repos\GestionInventarioTienda\GestionInventarioTienda\obj\Debug\GestionInventarioTienda.exe
+C:\Users\jhona\source\repos\GestionInventarioTienda\GestionInventarioTienda\obj\Debug\GestionInventarioTienda.pdb
